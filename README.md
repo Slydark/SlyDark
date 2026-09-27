@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Université_de_Montpellier-004B87?style=for-the-badge" alt="Université de Montpellier" />
   <img src="https://img.shields.io/badge/LIRMM_Laboratory-005073?style=for-the-badge" alt="LIRMM Laboratory" />
   <br/>
-  <h1>Nazim Labgaa</h1>
+  <h1>SlyDark</h1>
   <h3>M.Sc. Computer Science & Robotics</h3>
 </div>
 
