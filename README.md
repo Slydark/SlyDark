@@ -7,6 +7,8 @@
 </div>
 
 <br/>
+<img width="3168" height="1344" alt="Gemini_Generated_Image_mx09ofmx09ofmx09" src="https://github.com/user-attachments/assets/9182a09b-6775-4414-8422-d6be9324358d" />
+<br/>
 
 <h2><img src="https://api.iconify.design/octicon/person-24.svg?color=%2300599C" width="28" height="28" alt="Person"/> About Me</h2>
 
