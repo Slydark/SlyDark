@@ -12,12 +12,12 @@
 
 <h2><img src="https://api.iconify.design/octicon/person-24.svg?color=%2300599C" width="28" height="28" alt="Person"/> About Me</h2>
 
-Leveraging expertise in robotics and AI, my goal is to apply technological innovation to the MedTech sector and advanced research[cite: 1]. 
+Leveraging expertise in robotics and AI, my goal is to apply technological innovation to the MedTech sector and advanced research. 
 
-- **Academic Background:** M.Sc. in Computer Science & Robotics at Université de Montpellier (2024-2026)[cite: 1]. 
+- **Academic Background:** M.Sc. in Computer Science & Robotics at Université de Montpellier (2024-2026). 
 - **Research & Development:** Extensive experience conducting projects, coursework, and practical research within the LIRMM laboratory environment.
-- **Specialization:** Distributed architectures for autonomous social robots, integrating local LLMs (Llama 3.1) and visual perception (YOLOv8)[cite: 1].
-- **Problem Solving:** Strong foundation in biomedical engineering[cite: 1]. This dual hardware-software expertise drives a pragmatic, troubleshooting-oriented mindset[cite: 1].
+- **Specialization:** Distributed architectures for autonomous social robots, integrating local LLMs (Llama 3.1) and visual perception (YOLOv8).
+- **Problem Solving:** Strong foundation in biomedical engineering. This dual hardware-software expertise drives a pragmatic, troubleshooting-oriented mindset.
 
 <br/>
 
@@ -73,9 +73,9 @@ Leveraging expertise in robotics and AI, my goal is to apply technological innov
 
 <h2><img src="https://api.iconify.design/octicon/repo-24.svg?color=%23059669" width="28" height="28" alt="Repo"/> Featured Academic & Research Projects</h2>
 
-- **Autonomous Social Robot (Pepper):** Designed a distributed architecture integrating Llama 3.1 and YOLOv8 for advanced visual perception and interaction[cite: 1].
-- **Audio Signal Processing:** Developed a robust C++ application utilizing a Qt GUI for sophisticated audio signal filtering[cite: 1].
-- **Smart Underwater Robotics:** Designed an intelligent robotic system dedicated to stereoscopic data modeling and underwater exploration in confined karst environments[cite: 1].
+- **Autonomous Social Robot (Pepper):** Designed a distributed architecture integrating Llama 3.1 and YOLOv8 for advanced visual perception and interaction.
+- **Audio Signal Processing:** Developed a robust C++ application utilizing a Qt GUI for sophisticated audio signal filtering.
+- **Smart Underwater Robotics:** Designed an intelligent robotic system dedicated to stereoscopic data modeling and underwater exploration in confined karst environments.
 
 <br/>
 
