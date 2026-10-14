@@ -82,6 +82,6 @@ Leveraging expertise in robotics and AI, my goal is to apply technological innov
 <h2><img src="https://api.iconify.design/octicon/graph-24.svg?color=%237C3AED" width="28" height="28" alt="Graph"/> GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=transparent&hide_border=true&title_color=004B87&icon_color=004B87&text_color=333333" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=transparent&hide_border=true&title_color=004B87&text_color=333333" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Slydark&show_icons=true&theme=transparent&hide_border=true&title_color=004B87&icon_color=004B87&text_color=333333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slydark&layout=compact&theme=transparent&hide_border=true&title_color=004B87&text_color=333333" alt="Top Languages" />
 </div>
